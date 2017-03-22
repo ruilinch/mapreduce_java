@@ -1,7 +1,7 @@
 // CategoryFrequencyCount
 // Please change the file name to "WordCount.java" for it to run properly. 
 // Count the Frequency for A Number of KeyWords
-// The record that I process looks something like£º0CBA75350DB6183D88C4464A64A4807E|D556BF44DE7DE5060D11CD1B9228E8EC|20161003101641|20161003101642|20161003101641|MobileMap|http://client.map.baidu.com/su?st=0&highlight_flag=2&rp_format=pb&qt=sug&l=17&cid=131&loc=%2812961586.237293%2C4835724.332161%29&type=0&b=%2812962203%2C4827250%3B12963148%2C4828927%29&wd=a&mb=iPhone5%2C2&os=iphone8.200000&sv=9.5.0&net=11&resid=01&cuid=b111f8ddacc8e570e59aab10b25147a2&bduid=5y-4sVQ5SC2aS&channel=1008648b&oem=&screen=%28640%2C1136%29&dpi=%28326%2C326%29&ver=1&sinan=%2FB8qu-HpjNdAvN%3DR3k6uRjmOS&ctm=1475461001.846000&sign=5c60c3e37ceed211818d48a2b2b5ae16|text/javascript|0||200¡¤0
+// The record that I process looks something likeÂ£Âº0CBA75350DB6183D88C4464A64A4807E|D556BF44DE7DE5060D11CD1B9228E8EC|20161003101641|20161003101642|20161003101641|MobileMap|http://client.map.baidu.com/su?st=0&highlight_flag=2&rp_format=pb&qt=sug&l=17&cid=131&loc=%2812961586.237293%2C4835724.332161%29&type=0&b=%2812962203%2C4827250%3B12963148%2C4828927%29&wd=a&mb=iPhone5%2C2&os=iphone8.200000&sv=9.5.0&net=11&resid=01&cuid=b111f8ddacc8e570e59aab10b25147a2&bduid=5y-4sVQ5SC2aS&channel=1008648b&oem=&screen=%28640%2C1136%29&dpi=%28326%2C326%29&ver=1&sinan=%2FB8qu-HpjNdAvN%3DR3k6uRjmOS&ctm=1475461001.846000&sign=5c60c3e37ceed211818d48a2b2b5ae16|text/javascript|0||200Â¡Â¤0
 // I extracted the second item separated by "|" as the client ID, which in this case is "D556BF44DE7DE5060D11CD1B9228E8EC".
 
 
